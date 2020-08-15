@@ -25,7 +25,7 @@ SECRET_KEY = 'd508nulbq3f8^no-8w4v$6q#m#&mi*+a)uxn8lxz($hj^h8l4t'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['primeflamingo.herokuapp.com']
+ALLOWED_HOSTS = ['primeflamingo.herokuapp.com', '127.0.0.1']
 
 
 # Application definition
